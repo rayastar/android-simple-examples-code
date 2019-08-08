@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">External Storage</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+    <string name="enter_text">enter text</string>
+    <string name="enter_fi_le_name">enter fi le name</string>
+</resources>

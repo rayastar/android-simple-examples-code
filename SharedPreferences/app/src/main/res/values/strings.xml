@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_location">enter location</string>
+    <string name="enter_email">enter email</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+</resources>

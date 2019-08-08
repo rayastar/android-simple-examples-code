@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Using HTML pages loading</string>
+    <string name="load_html_page">Load Html Page</string>
+</resources>

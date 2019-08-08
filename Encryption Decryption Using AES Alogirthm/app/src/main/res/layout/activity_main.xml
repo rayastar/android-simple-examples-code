@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="android.anil.com.demoencryptiondecryption.MainActivity">
+
+
+    <EditText
+        android:id="@+id/editText_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter any  value!"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button_encryption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Encrypt" />
+
+    <TextView
+        android:id="@+id/textView_disencry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <Button
+        android:id="@+id/button_discryption"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Decrypt" />
+
+    <TextView
+        android:id="@+id/textView_disde"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+</LinearLayout>

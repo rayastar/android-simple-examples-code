@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/mr"
+    tools:context=".MainActivity"
+    android:background="#000000">
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Switch"
+        android:id="@+id/switch1"
+        android:layout_marginTop="20dp"
+        android:textSize="40dp"
+        android:textColor="#ffffff"
+        android:background="#99cc00"
+        android:layout_gravity="center_horizontal"
+        android:checked="false" />
+</LinearLayout>

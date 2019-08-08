@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StartActivityForResult</string>
+    <string name="choose_names">Choose Names</string>
+    <string name="choose_ph_number">Choose Ph Number</string>
+</resources>

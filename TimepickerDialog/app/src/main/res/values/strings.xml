@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Timepicker Dialog</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="time_is">Time is :</string>
+</resources>

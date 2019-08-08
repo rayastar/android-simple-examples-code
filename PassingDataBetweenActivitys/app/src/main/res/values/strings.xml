@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Passing Data Between Activitys</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_ph_number">enter ph number</string>
+    <string name="send">Send</string>
+</resources>
